@@ -1,4 +1,4 @@
-# UofT-FintechHwk-6---PyViz
+# Toronto Housing Market Analysis - PyViz
 
 Please refer to the Rental Analysis.IPYNB. It shows all the required charts in order and runs without issue.
 
